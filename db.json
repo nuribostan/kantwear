@@ -1,140 +1,153 @@
 [
     {
-        id: 1,
-        name: "Burberry Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/gfcp0pr.JPG",
+        "id": 1,
+        "name": "Burberry Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/burberry-tshirt",
+        "image": "https://i.hizliresim.com/gfcp0pr.JPG"
     },
-
     {
-        id: 2,
-        name: "Ea7 Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/es82djt.JPG",
-        colors: [
+        "id": 2,
+        "name": "Ea7 Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/ea7-tshirt",
+        "image": "https://i.hizliresim.com/es82djt.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/6s9vwcq.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/6s9vwcq.JPG"
+            }
         ]
     },
-
     {
-        id: 3,
-        name: "hermes Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/6letbe0.JPG",
-        colors: [
+        "id": 3,
+        "name": "Hermes Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/hermes-tshirt",
+        "image": "https://i.hizliresim.com/6letbe0.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/e6035rb.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/e6035rb.JPG"
+            }
         ]
     },
-
     {
-        id: 4,
-        name: "Casablanka Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/26yd7d3.JPG",
-        colors: [
+        "id": 4,
+        "name": "Casablanca Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/casablanca-tshirt",
+        "image": "https://i.hizliresim.com/26yd7d3.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/j3be5r2.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/j3be5r2.JPG"
+            }
         ]
     },
-
     {
-        id: 5,
-        name: "Nike Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/b23zcnz.JPG",
-        colors: [
+        "id": 5,
+        "name": "Nike Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/nike-tshirt",
+        "image": "https://i.hizliresim.com/b23zcnz.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/djs0f41.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/djs0f41.JPG"
+            }
         ]
     },
-
     {
-        id: 6,
-        name: "Ea7 Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/ge11a3o.JPG",
-        colors: [
+        "id": 6,
+        "name": "Ea7 Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/ea7-tshirt",
+        "image": "https://i.hizliresim.com/ge11a3o.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/sipvj2r.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/sipvj2r.JPG"
+            }
         ]
     },
-
-    
     {
-        id: 7,
-        name: "Ami Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/nzks33w.JPG",
-        colors: [
+        "id": 7,
+        "name": "Ami Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/ami-tshirt",
+        "image": "https://i.hizliresim.com/nzks33w.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/7jwr295.JPG"
-            },
-            
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/7jwr295.JPG"
+            }
         ]
     },
-
     {
-        id: 8,
-        name: "Nike Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/tkwal17.JPG",
+        "id": 8,
+        "name": "Nike Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/nike-tshirt",
+        "image": "https://i.hizliresim.com/tkwal17.JPG"
     },
-
     {
-        id: 9,
-        name: "Icon Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/oifprpo.JPG",
+        "id": 9,
+        "name": "Icon Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/icon-tshirt",
+        "image": "https://i.hizliresim.com/oifprpo.JPG"
     },
-
     {
-        id: 10,
-        name: "Kenzo Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/bndrmzr.JPG",
-        colors: [
+        "id": 10,
+        "name": "Kenzo Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/kenzo-tshirt",
+        "image": "https://i.hizliresim.com/bndrmzr.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/6964zrh.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/6964zrh.JPG"
+            }
         ]
     },
-
     {
-        id: 11,
-        name: "Burbeey Tshirt",
-        price: "250,00",
-        link: "#",
-        image: "https://i.hizliresim.com/d0oonpw.JPG",
-        colors: [
+        "id": 11,
+        "name": "Burberry Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/burberry-tshirt-2",
+        "image": "https://i.hizliresim.com/d0oonpw.JPG",
+        "colors": [
             {
-                color: "siyah",
-                image: "https://i.hizliresim.com/h1t10dj.JPG"
-            },
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/h1t10dj.JPG"
+            }
         ]
     },
-
+    {
+        "id": 12,
+        "name": "Burberry Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/burberry-tshirt-3",
+        "image": "https://i.hizliresim.com/d0oonpw.JPG",
+        "colors": [
+            {
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/h1t10dj.JPG"
+            }
+        ]
+    },
+        {
+        "id": 13,
+        "name": "Burberry Tshirt",
+        "price": 250.00,
+        "link": "https://example.com/burberry-tshirt-3",
+        "image": "https://i.hizliresim.com/d0oonpw.JPG",
+        "colors": [
+            {
+                "color": "siyah",
+                "image": "https://i.hizliresim.com/h1t10dj.JPG"
+            }
+        ]
+    }
 ]
